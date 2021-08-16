@@ -6,7 +6,7 @@ actions:
     link: https://api.thanki.fi
     type: primary
   - text: Guide
-    link: https://thanki.fi#this
+    link: /guide
     type: secondary
 features:
   - title: Free as in speech
