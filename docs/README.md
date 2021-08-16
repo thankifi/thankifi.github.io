@@ -15,6 +15,7 @@ features:
     details: ... and counting. Can you believe Thankifi even speaks Klingon?! Remember to say qatlho' if someone saves your life ;)
   - title: Fun
     details: Select one or more different filters and customizations, because being grateful should not be boring. ThAnK yOu!
+footer: AGPL-3.0 Licensed | Copyright © 2020-present Lucas Maximiliano Marino
 ---
 <p align="center" id="this">
     <picture>
@@ -24,8 +25,8 @@ features:
 </p>
 
 
-<hr>
+<!-- <hr> -->
 <p align="center">
-AGPL-3.0 Licensed | Made with ❤️ and gratitude by <a href="https://lucasmarino.me">Lucas Maximiliano Marino</a>
+Made with ❤️ and gratitude by <a href="https://lucasmarino.me">Lucas Maximiliano Marino</a>
 
 </p>
