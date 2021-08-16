@@ -1,0 +1,16 @@
+{
+  "name": "thankifi",
+  "version": "1.0.0",
+  "description": "Thankifi is a free (as in speech) API that makes it easy for you to express gratitude. Be grateful!",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": "git@github.com:thankifi/thankifi.github.io",
+  "author": "Lucas Maximiliano Marino <hello@lucasmarino.me>",
+  "license": "AGPL-3",
+  "private": true,
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.24"
+  }
+}
