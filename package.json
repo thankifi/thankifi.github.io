@@ -12,5 +12,8 @@
   "private": true,
   "devDependencies": {
     "vuepress": "^2.0.0-beta.24"
+  },
+  "dependencies": {
+    "@vuepress/plugin-back-to-top": "^2.0.0-beta.24"
   }
 }
