@@ -15,10 +15,11 @@ module.exports = {
         repo: 'thankifi'
     },
     plugins: [
-        '@vuepress/back-to-top',
-        '@vuepress/plugin-google-analytics',
-        {
-            id: 'G-3WG5T84V68',
-        },
+        [
+            '@vuepress/plugin-google-analytics',
+            {
+                id: 'G-3WG5T84V68',
+            }
+        ]
     ]
 }
