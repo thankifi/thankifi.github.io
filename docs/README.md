@@ -17,6 +17,14 @@ features:
     details: Select one or more different filters and customizations, because being grateful should not be boring. ThAnK yOu!
 footer: AGPL-3.0 Licensed | Copyright © 2020-present Lucas Maximiliano Marino
 ---
+
+<p align="center" id="this">
+    <picture>
+        <source srcset="https://img.shields.io/website?down_message=unavailable&label=api%20status&style=for-the-badge&up_message=healthy&url=https%3A%2F%2Fapi.thanki.fi%2Fhealth">
+        <img src="https://img.shields.io/website?down_message=unavailable&label=api%20status&style=for-the-badge&up_message=healthy&url=https%3A%2F%2Fapi.thanki.fi%2Fhealth" />
+    </picture>
+</p>
+
 <p align="center" id="this">
     <picture>
         <source srcset="/images/cover.png" media="(min-width: 768px)" >
@@ -24,9 +32,7 @@ footer: AGPL-3.0 Licensed | Copyright © 2020-present Lucas Maximiliano Marino
     </picture>
 </p>
 
-
 <!-- <hr> -->
 <p align="center">
 Made with ❤️ and gratitude by <a href="https://lucasmarino.me">Lucas Maximiliano Marino</a>
-
 </p>
